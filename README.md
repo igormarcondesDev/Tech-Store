@@ -32,7 +32,9 @@ Este projeto foi desenvolvido utilizando tecnologias fundamentais do **Front-End
 
 ---
 
-# 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
+
+```bash
 Tech-Store
 │
 ├── index.html
@@ -46,3 +48,4 @@ Tech-Store
 │   └── black.png
 │
 └── README.md
+```
