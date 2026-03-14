@@ -33,8 +33,16 @@ Este projeto foi desenvolvido utilizando tecnologias fundamentais do **Front-End
 ---
 
 # 📂 Estrutura do Projeto
-
- 
- 
- 
- https://igormarcondesdev.github.io/Tech-Store/
+Tech-Store
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── images
+│   ├── green.png
+│   ├── blue.png
+│   ├── red.png
+│   └── black.png
+│
+└── README.md
